@@ -93,8 +93,8 @@ Here are some files that might help you configure the module in your environment
 ### Pinout
 
 
-` `  
-` `  
+  
+  
 Bottom View
 
 |      |      |      |      |      |      |      |      |
@@ -111,8 +111,8 @@ Bottom View
 
 
 
-` `  
-` `
+
+
 Top View (component side)
 
 |      |      |      |      |      |      |      |      |
