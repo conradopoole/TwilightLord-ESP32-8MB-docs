@@ -140,6 +140,3 @@ The silkscreen on this rev has the right columns switched on rows 2-8 (inner vs 
 <img src="TwilightLord-ESP32-8MB-v1.0r1-001.png" width="300"><br/>
 <img src="TwilightLord-ESP32-8MB-v1.0r1-002.png" width="300"><br/>
 <img src="TwilightLord-ESP32-8MB-v1.0r1-003.png" width="300"><br/>
-
-
-
