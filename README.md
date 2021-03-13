@@ -90,5 +90,47 @@ Here are some files that might help you configure the module in your environment
     upload_speed=2000000
     ```
 
+### Pinout
 
- 
+
+` `  
+` `  
+Bottom View
+
+|      |      |      |      |      |      |      |      |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| GND  | TXD  |      |      |      |      | RST  | GND  |
+| IO27 | RXD  |      |      |      |      | SVP  | GND  |
+| IO25 | IO22 |      |      |      |      | IO26 | SVN  |
+| IO32 | IO21 |      |      |      |      | IO18 | IO35 |
+| IO12 | IO17 |      |      |      |      | IO19 | IO33 |
+| IO4  | IO16 |      |      |      |      | IO23 | IO34 |
+| IO0  | GND  |      |      |      |      | IO5  | IO14 |
+| IO2  | 5v0  |      |      |      |      | 3v3  | 3v3  |
+| NC   | IO15 |      |      |      |      | IO13 | NC   |
+
+
+
+` `  
+` `
+Top View (component side)
+
+|      |      |      |      |      |      |      |      |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| GND  | RST  |      |      |      |      | TXD  | GND  |
+| GND  | SVP  |      |      |      |      | RXD  | IO27 |
+| SVN  | IO26 |      |      |      |      | IO22 | IO25 |
+| IO35 | IO18 |      |      |      |      | IO21 | IO32 |
+| IO33 | IO19 |      |      |      |      | IO17 | IO12 |
+| IO34 | IO23 |      |      |      |      | IO16 | IO4  |
+| IO14 | IO5  |      |      |      |      | GND  | IO0  |
+| 3v3  | 3v3  |      |      |      |      | 5v0  | IO2  |
+| NC   | IO13 |      |      |      |      | IO15 | NC   |
+
+
+
+#### IMPORTANT SILKSCREEN PINOUT
+
+The silkscreen on this rev has the right columns switched on rows 2-8 (inner vs outer). The pinout looking from the bottom of the board is as follows. Please follow this instead.
+
+<img src="TwilightLord-ESP32-8MB-v1.0r1-Silkscreen.png" width="300">
