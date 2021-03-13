@@ -134,3 +134,12 @@ Top View (component side)
 The silkscreen on this rev has the right columns switched on rows 2-8 (inner vs outer). The pinout looking from the bottom of the board is as follows. Please follow this instead.
 
 <img src="TwilightLord-ESP32-8MB-v1.0r1-Silkscreen.png" width="300">
+
+### Board Pictures
+
+<img src="TwilightLord-ESP32-8MB-v1.0r1-001.png" width="300"><br/>
+<img src="TwilightLord-ESP32-8MB-v1.0r1-002.png" width="300"><br/>
+<img src="TwilightLord-ESP32-8MB-v1.0r1-003.png" width="300"><br/>
+
+
+
