@@ -32,7 +32,7 @@ Here are some files that might help you configure the module in your environment
 
  - Sample partitions file for the 8MB Flash, with 2 OTA Slots, EEPROM and SPIFF (copy or [download](partitions_8M.csv)) 
 
-        ```csv
+        ```CSV
         # Name,   Type, SubType, Offset,  Size, Flags
         nvs,      data, nvs,     0x9000,  20K,
         otadata,  data, ota,     0xe000,  8K,
