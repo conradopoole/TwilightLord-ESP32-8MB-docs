@@ -141,15 +141,15 @@ Top View (component side)
 
 __*__ Pins are NC (Not Connected) on D1 Mini32 boards. Just to be safe , it is recommended to not solder them if you are plugging this module to a board designed for a D1 Mini32, if you do just make sure on those boards these pins are NC.
 
+### Board Pictures
 
-#### IMPORTANT SILKSCREEN PINOUT
+<img src="TwilightLord-ESP32-8MB-v1.0r5-001.png" width="300"><br/>
+<img src="TwilightLord-ESP32-8MB-v1.0r5-002.png" width="300"><br/>
+<img src="TwilightLord-ESP32-8MB-v1.0r5-003.png" width="300"><br/>
+
+
+#### IMPORTANT SILKSCREEN PINOUT IN OLD 1.0r5 version
 
 The silkscreen on this rev has the right columns switched on rows 2-8 (inner vs outer). The pinout looking from the bottom of the board is as follows. Please follow this instead.
 
 <img src="TwilightLord-ESP32-8MB-v1.0r1-Silkscreen.png" width="300">
-
-### Board Pictures
-
-<img src="TwilightLord-ESP32-8MB-v1.0r1-001.png" width="300"><br/>
-<img src="TwilightLord-ESP32-8MB-v1.0r1-002.png" width="300"><br/>
-<img src="TwilightLord-ESP32-8MB-v1.0r1-003.png" width="300"><br/>
